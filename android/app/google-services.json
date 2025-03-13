@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910538792854",
+    "project_id": "spotifyronclone01",
+    "storage_bucket": "spotifyronclone01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910538792854:android:0fa6a769e9d95a531d47b7",
+        "android_client_info": {
+          "package_name": "com.example.ronfltapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkSDJJ8vaAXOE3E54C93Gq2THvzt7vmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
